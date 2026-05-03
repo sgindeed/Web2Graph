@@ -11,8 +11,8 @@ const NODE_COLORS = {
   other:        { hex: "#778899", label: "Other",        glow: "rgba(119,136,153,0.6)"  },
 };
 
-const API_BASE_URL = "http://localhost:8000";
-const WS_BASE_URL = "ws://localhost:8000";
+const API_BASE_URL = "https://maverick234-web2graph.hf.space";
+const WS_BASE_URL = "wss://maverick234-web2graph.hf.space";
 
 const css = `
   @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600;700&display=swap');
