@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-huggingface
+beautifulsoup4
+requests
+python-dotenv
+chromadb
+sentence-transformers
+lxml
