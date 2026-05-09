@@ -37,7 +37,7 @@
 ## Project Structure
 
 ```text
-.
+root
 ├── rag_backend/
 │   └── app/
 │       ├── main.py          # API endpoints and WebSocket handlers
